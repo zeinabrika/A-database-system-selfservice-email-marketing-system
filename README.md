@@ -1,4 +1,4 @@
-This project is a database design with ER diagram and schema diagram that created with TSQL. This design shows implementing a database system. In addition, the project can run on
+This design shows implementing a database system. In addition, the project can run on
 Microsoft SQL Server 2014. Microsoft SQL Server 2014 is a relational database management
 system (DBMS) can be used for developing InsightMail application.
 For design, the database system to support a self-service email marketing (InsightMail) defined
